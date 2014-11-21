@@ -1,9 +1,22 @@
+/* Body styles */
+
 body {
 	font-family: american typewriter, verdana;
 	margin: 0px;
 	color: grey;
 }
 
+
+/* Navigation styling */
+
+table.center{
+	margin-right: auto;
+	margin-left: auto;
+}
 td {
 	width: 100px
+}
+
+a.link2:link, a.link2:hover, a.link2:active {
+	color: grey;
 }
