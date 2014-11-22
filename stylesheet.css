@@ -17,6 +17,6 @@ td {
 	width: 100px
 }
 
-a.link2:link, a.link2:hover, a.link2:active {
+a.link2:link, a.link2:hover, a.link2:active, a.link:visited {
 	color: grey;
 }
