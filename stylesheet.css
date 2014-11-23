@@ -4,6 +4,7 @@ body {
 	font-family: american typewriter, verdana;
 	margin: 0px;
 	color: grey;
+	font-size: 18px;
 }
 
 
@@ -34,4 +35,17 @@ img.leadimage {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+/* blog styling */
+
+p.blog {
+	margin-right: 300px;
+	margin-left: 300px;
+}
+
+img.blog {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
