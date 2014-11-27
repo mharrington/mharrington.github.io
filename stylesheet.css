@@ -21,6 +21,25 @@ td {
 	text-align:center;
 }
 
+/* Test nav styling */
+
+nav {
+	border: 5px dashed green;
+}
+
+nav ul {
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px
+}
+
+nav li {
+	width:24%;
+	display: inline-block;
+	text-align: center;
+}
+
 /* link styling */
 
 a.link2:link, a.link2:hover, a.link2:active, a.link2:visited {
