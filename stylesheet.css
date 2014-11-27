@@ -10,23 +10,6 @@ body {
 
 /* Navigation styling */
 
-table.center {
-	margin-right: auto;
-	margin-left: auto;
-}
-td {
-	width:100px;
-	padding-left: 25px;
-	padding-right: 25px;
-	text-align:center;
-}
-
-/* Test nav styling */
-
-nav {
-	border: 5px dashed green;
-}
-
 nav ul {
 	width:50%;
 	margin-left: auto;
