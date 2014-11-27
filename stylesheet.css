@@ -7,13 +7,10 @@ body {
 	font-size: 18px;
 }
 
-
 /* Navigation styling */
-
 nav ul {
 	width:50%;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	padding: 0px
 }
 
@@ -24,13 +21,11 @@ nav li {
 }
 
 /* link styling */
-
 a.link2:link, a.link2:hover, a.link2:active, a.link2:visited {
 	color: grey;
 }
 
 /* Lead image styling */
-
 img.leadimage {
 	width: 610px;
 	height: 300px;
@@ -40,7 +35,6 @@ img.leadimage {
 }
 
 /* blog styling */
-
 p.blog {
 	margin-right: 300px;
 	margin-left: 300px;
@@ -49,5 +43,4 @@ p.blog {
 img.blog {
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
 }
