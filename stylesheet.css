@@ -41,6 +41,7 @@ p.blog {
 }
 
 img.blog {
-	margin-left: auto;
+	margin-left:auto;
 	margin-right: auto;
+	display: block;
 }
