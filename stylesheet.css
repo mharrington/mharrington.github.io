@@ -4,10 +4,11 @@ body {
 	font-family: american typewriter, verdana;
 	margin: 0px;
 	color: grey;
-	font-size: 18px;
+	font-size: 22px;
 }
 
 /* Navigation styling */
+
 nav ul {
 	width:50%;
 	margin: auto;
