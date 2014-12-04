@@ -27,18 +27,19 @@ nav li a {
 	display: inline-block;
 	width: 120px;
 	transition: all 0.5s linear;
-	border: 3px solid grey;
 	background-color: white;
 	color: grey;
 }
 
 a.nav:link, a.nav:active, a.nav:visited {
 	text-decoration: none;
+	border: 3px solid grey;
 }
 
 a.nav:hover {
 	background-color: grey;
 	color: white;
+	border: 3px solid grey;
 }
 
 /* Lead image styling */
@@ -57,6 +58,6 @@ img.leadimage {
 
 /* text styling */
 p.copy {
-	margin-right: 20%;
-	margin-left: 20%;
+	margin-right: 10%;
+	margin-left: 10%;
 }
