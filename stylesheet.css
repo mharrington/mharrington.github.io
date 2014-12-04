@@ -10,20 +10,35 @@ body {
 /* Navigation styling */
 
 nav ul {
-	width:50%;
-	margin: auto;
-	padding: 0px
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 nav li {
-	width:24%;
+	width: 120px;
 	display: inline-block;
 	text-align: center;
 }
 
 /* link styling */
-a.link2:link, a.link2:hover, a.link2:active, a.link2:visited {
+nav li a {
+	background: red;
+	display: inline-block;
+	width: 120px;
+	transition: all 0.5s linear;
+	border: 3px solid grey;
+	background-color: white;
 	color: grey;
+}
+
+a.nav:link, a.nav:active, a.nav:visited {
+	text-decoration: none;
+}
+
+a.nav:hover {
+	background-color: grey;
+	color: white;
 }
 
 /* Lead image styling */
