@@ -65,3 +65,12 @@ a.linkbutton:hover {
 	background-color: grey;
 	color: white;
 }
+
+/* Inline link */
+a.inlinelink:link, a.inlinelink:active, a.inlinelink:visited {
+	color: grey;
+}
+
+a.inlinelink:hover {
+	color:blue;
+}
