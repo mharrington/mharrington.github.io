@@ -16,6 +16,7 @@ h1 {
 nav ul {
 	text-align: center;
 	margin: 5 px auto 5 px auto;
+	padding-left: 0px;
 }
 
 nav li {
