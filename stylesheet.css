@@ -112,9 +112,10 @@ td.center {
 /* Photo page */
 
 .photo {
-	width: 600px;
+	width: 100%;
 }
 
 .photoframe {
+	width: 50%;
 	border: 2px grey solid;
 }
