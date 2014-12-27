@@ -108,3 +108,13 @@ td.center {
 	top: 400px;
 	right:10px;
 }
+
+/* Photo page */
+
+.photo {
+	width: 600px;
+}
+
+.photoframe {
+	border: 2px grey solid;
+}
