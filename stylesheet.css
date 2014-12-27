@@ -95,3 +95,16 @@ td.center {
 	text-align: center;
 }
 
+/* Blog */
+
+.previousblognav {
+	position: fixed;
+	top: 400px;
+	left:10px;
+}
+
+.nextblognav {
+	position: fixed;
+	top: 400px;
+	right:10px;
+}
