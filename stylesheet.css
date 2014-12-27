@@ -75,3 +75,23 @@ a.inlinelink:link, a.inlinelink:active, a.inlinelink:visited {
 a.inlinelink:hover {
 	color:blue;
 }
+
+/* Table Styling */
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	border-top: 2px grey solid;
+	width: 20%;
+}
+
+td.center {
+	text-align: center;
+}
+
