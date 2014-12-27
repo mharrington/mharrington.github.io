@@ -100,13 +100,13 @@ td.center {
 .previousblognav {
 	position: fixed;
 	top: 400px;
-	left:10px;
+	left:20px;
 }
 
 .nextblognav {
 	position: fixed;
 	top: 400px;
-	right:10px;
+	right:20px;
 }
 
 /* Photo page */
